@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HERE Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87471771240234,
+          19.1261935786045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HERE Frankfurt (Schwalbach)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.53463888168335,
+          50.161422225576295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HERE Chicago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63907670974731,
+          41.88441938739452
+        ]
+      }
+    }
+  ]
+}
